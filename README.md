@@ -54,5 +54,5 @@ would look for a database configuration of myapp\_development. But if you specif
 ### CREDIT
 
 * This plugin was originally created by James Stewart - http://jystewart.net/process/
-* Converted to Rails 3 by Chris Rohr http://www.nearinfinity.com/blogs/chris_rohr/
+* Converted to Rails 3 by Chris Rohr https://www.altamiracorp.com/profiles/crohr
 * Converted to gem by sinsoku https://github.com/sinsoku/
